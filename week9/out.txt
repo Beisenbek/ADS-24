@@ -1,0 +1,39 @@
+abcabcd
+a: 0
+========
+ab: 0
+a b
+========
+abc: 0
+a c
+ab bc
+========
+abca: 1
+a a
+ab ca
+abc bca
+========
+abcab: 2
+a b
+ab ab
+abc cab
+abca bcab
+========
+abcabc: 3
+a c
+ab bc
+abc abc
+abca cabc
+abcab bcabc
+========
+abcabcd: 0
+a d
+ab cd
+abc bcd
+abca abcd
+abcab cabcd
+abcabc bcabcd
+========
+
+
+=== Code Execution Successful ===
